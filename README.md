@@ -4,5 +4,5 @@ Guide: This application has the added abilities to animate the created animal. B
 
 <p align="center">
   <img src="C:\Users\Calvin\Desktop\sceneGraph.jpg" width="350"/>
-  <img src="your_relative_path_here_number_2_large_name" width="350"/>
+  <img src="C:\Users\Calvin\Desktop\sceneGraph.jpg" width="350"/>
 </p>
